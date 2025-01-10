@@ -74,7 +74,7 @@ From building websites to designing creative content, I thrive on creating, expl
 
 ## 📬 Connect with Me  
 - **GitHub:** [jitendersing](https://github.com/jitendersing)  
-- **LinkedIn:** [Visity My Linkdien Profile](https://www.linkedin.com/in/jitender-singh-1580b8344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **LinkedIn:** [Visit Linkdien](https://www.linkedin.com/in/jitender-singh-1580b8344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Email:** [Contact Now](mailto:jscmcharan@gmail.com)  
 
 ---
