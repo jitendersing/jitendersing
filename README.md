@@ -73,7 +73,10 @@ From building websites to designing creative content, I thrive on creating, expl
 
 ## 📬 Connect with Me  
 - **LinkedIn:** [Visit Linkdien](https://www.linkedin.com/in/jitender-sing?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **Email:** [Contact Now](mailto:jscmcharan@gmail.com)  
+- **Email:** [Contact Now](mailto:jscmcharan@gmail.com)
+- #visit my website at [https://www.example.com](http://www.nielit.rf.gd).
+
+
 
 ---
 
