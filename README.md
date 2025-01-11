@@ -65,7 +65,7 @@ From building websites to designing creative content, I thrive on creating, expl
 
 ## 📂 Featured Projects  
 - 🌐 **[Responsive Portfolio Website](https://nielit.rf.gd)** - A sleek personal portfolio showcasing my skills and projects.  
-- 🔧 **[IoT Home Automation](#)** - Arduino-based project to control home appliances remotely.  
+- 🔧 **[IoT Home Automation](https://www.tinkercad.com/users/7erPAH664JY)** - Arduino-based project to control home appliances remotely.  
 - 🎨 **[Creative Graphic Designs](https://www.instagram.com/random_stranger_unknown/)** - A collection of my Canva and Photoshop projects.  
 - 🎥 **[Video Editing Showcase](https://www.instagram.com/random_stranger_unknown/)** - A compilation of my CapCut-edited videos.  
 
