@@ -64,16 +64,14 @@ From building websites to designing creative content, I thrive on creating, expl
 ---
 
 ## 📂 Featured Projects  
-- 🌐 **[Responsive Portfolio Website](#)** - A sleek personal portfolio showcasing my skills and projects.  
-- 🔒 **[Penetration Testing Scripts](#)** - Custom scripts to automate cybersecurity tasks.  
+- 🌐 **[Responsive Portfolio Website](https://nielit.rf.gd)** - A sleek personal portfolio showcasing my skills and projects.  
 - 🔧 **[IoT Home Automation](#)** - Arduino-based project to control home appliances remotely.  
-- 🎨 **[Creative Graphic Designs](#)** - A collection of my Canva and Photoshop projects.  
-- 🎥 **[Video Editing Showcase](#)** - A compilation of my CapCut-edited videos.  
+- 🎨 **[Creative Graphic Designs](https://www.instagram.com/random_stranger_unknown/)** - A collection of my Canva and Photoshop projects.  
+- 🎥 **[Video Editing Showcase](https://www.instagram.com/random_stranger_unknown/)** - A compilation of my CapCut-edited videos.  
 
 ---
 
 ## 📬 Connect with Me  
-- **GitHub:** [Visit Github](https://github.com/jitendersing)  
 - **LinkedIn:** [Visit Linkdien](https://www.linkedin.com/in/jitender-singh-1580b8344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **Email:** [Contact Now](mailto:jscmcharan@gmail.com)  
 
